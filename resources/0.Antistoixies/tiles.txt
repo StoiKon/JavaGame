@@ -1,0 +1,3 @@
+g: grass
+w: wall
+s:stoneFloor
